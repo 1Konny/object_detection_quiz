@@ -4,7 +4,7 @@
 https://docs.google.com/presentation/d/1dWyDBlNLr6lpAWfkfPIpU9YQbHwPbdevRKBv3YXfHco/edit?usp=sharing
 
 # TensorFlow Object Detection API
-https://drive.google.com/open?id=198A6Ctppvurm_flVH6gtgJne37dMfEtlazX20LGLJHE
+https://docs.google.com/presentation/d/198A6Ctppvurm_flVH6gtgJne37dMfEtlazX20LGLJHE/edit?usp=sharing
 
 # 제출방법
 `wonkwang.lee@kaist.ac.kr`로 완성한 `quiz.ipynb`파일을 첨부하여 보내주시면 됩니다. <br>
